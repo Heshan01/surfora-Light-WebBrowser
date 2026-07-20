@@ -1,0 +1,6 @@
+{
+  "name": "Surfora light",
+  "description": "A lightweight native Android web browser styled closely after Safari with bottom address bar, tab grid, safe browsing, bookmarks, and private mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
